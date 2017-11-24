@@ -5,6 +5,10 @@
              x:Class="BMI_PCL.MainPage">
     <ContentPage.Content>
         <StackLayout>
+            <Label Text="JK3A21 髙嶋駿介"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand" />
+
             <Label Text="身長を入力してください(cm)"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
